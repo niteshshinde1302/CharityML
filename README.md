@@ -2,6 +2,10 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+### Overview
+
+In this project, Gradient Boosting classifier was used to predict if a person will make a donation towards a fictitious organization CharityML. Problem of class imbalance was mitigated using various data processing and optimization techniques. Perform model tuning using GridSearchCV and feature selection was done to reduce to training and prediction time without compromising accuracy and f-score. An accuracy of 86% and f-score of 0.72 was achieved.
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
